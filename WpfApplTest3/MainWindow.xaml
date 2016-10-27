@@ -7,6 +7,6 @@
         mc:Ignorable="d"
         Title="WpfApplTest3" Height="350" Width="525">
     <Grid>
-        
+        <TextBlock Text="Testtext" />
     </Grid>
 </Window>
